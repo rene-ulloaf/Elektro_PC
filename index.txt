@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title> Soporte Informático a domicilio </title>
+ <frameset cols="15%,*,15%" framespacing="0" border="0" frameborder="0">
+  <frame src="1.html" name="frame1" noresize="noresize" bordercolor="#000000" scrolling="no" />
+   <frameset rows="180,*">
+    <frameset cols="*,435">
+     <frame src="logo.html" name="logo" noresize="noresize" scrolling="no"/>
+     <frame src="logo2.html" name="logo2" noresize="noresize" scrolling="no"/>
+    </frameset> 
+     <frameset cols="*,25%">	
+      <frame src="inicio.html" name="inicio" noresize="noresize"/>
+      <frame src="menu.html" name="menu" noresize="noresize"/>
+     </frameset>	   	   	
+   </frameset>
+  <frame src="2.html" name="frame2" noresize="noresize" bordercolor="#000000" scrolling="no"/>
+ </frameset> 
+ <noframes></noframes>
+</head>
+</html>
